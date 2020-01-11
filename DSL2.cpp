@@ -1,10 +1,11 @@
-/*Write C++ program for storing matrix. Write functions for
-Check whether given matrix is upper triangular or not
-Compute summation of diagonal elements 
-Compute transpose of matrix 
-Add, subtract and multiply two matrices  
-Check saddle point is present or not.
-*/
+/*Write C++ program with class for String. Write a function  
+Copy, Concatenate, check substring, Equal, Reverse and Length.
+Frequency that determines the frequency of occurrence of particular character in the string.  
+Delete that accepts two integers, start and length. The function computes a new string that is equivalent to the original string, except that length characters being at start have been removed.  
+Chardelete that accepts a character c. The function returns the string with all occurrences of c removed.  
+Replace to make an in-place replacement of a substring w of a string by the string x. note that w may not be of same size of x . 
+Palindrome to check whether given string is palindrome or not
+(Note: Make use of character array to perform all operations)*/
 
 
 #include <iostream>
