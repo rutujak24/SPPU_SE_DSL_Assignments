@@ -1,10 +1,8 @@
-//============================================================================
-// Name        : 3poly.cpp
-// Author      : kandlagunta rohith
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
-//============================================================================
+/*Write a C++ program to realize polynomial equation and perform operations. Write function    
+To input &output polynomials represented as bmxem+ bm-1xem-1 +….. +b0xe0.  Your functions should overload the << and >> operators. 
+Evaluates a polynomial at given value of x 
+Add two polynomials. 
+Multiplies two polynomials.*/
 #include <iostream>
 using namespace std;
 class polynomial
