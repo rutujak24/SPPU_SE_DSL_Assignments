@@ -1,10 +1,11 @@
-//============================================================================
-// Name        : sort.cpp
-// Author      : anuja
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
-//============================================================================
+/*Write C++ program to store first year percentage of students in array. 
+Write function for sorting array of floating point numbers in ascending order using
+a) Selection Sort b) Bubble sort and display top five scores.
+OR
+Write C++ program to store second year percentage of students in array. 
+Write function for sorting array of floating point numbers in ascending order using 
+a) Insertion sort b) Shell Sort and display top five scores.*/
+
 
 #include <iostream>
 #include<ctime>
